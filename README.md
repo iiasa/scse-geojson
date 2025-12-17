@@ -3,7 +3,8 @@ Copyright 2025 IIASA Scenario Services team
 
 [![license](https://img.shields.io/badge/License-CC--BY-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository is maintained by the <a class="text-white font-weight-bold" href="https://iiasa.ac.at/themes/scenario-services-and-scientific-software" target="_blank"> Scenario Services and Scientific Software team </a> at the IIASA Energy, Climate and Environment program.
+This repository is maintained by the [Scenario Services and Scientific Software team](https://iiasa.ac.at/themes/scenario-services-and-scientific-software)
+at the IIASA Energy, Climate and Environment program.
 
 ## Country map
 

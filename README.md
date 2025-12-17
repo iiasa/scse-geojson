@@ -1,6 +1,6 @@
 ## NUTS regions (NUTS1, NUTS2, NUTS3)
 
-The initial nuts geojson [NUTS_RG_03M_2024_4326](NUTS_RG_03M_2024_4326.geojson) is sourced from the [EUROSTAT Territorial units for statistics (NUTS)](https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units/territorial-units-statistics) website. 
+The initial nuts geojson [NUTS_RG_03M_2024_4326](nuts/NUTS_RG_03M_2024_4326.geojson) is sourced from the [EUROSTAT Territorial units for statistics (NUTS)](https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units/territorial-units-statistics) website. 
 
 The content is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/). Reuse of the data is authorised with due sitation of the source.
 

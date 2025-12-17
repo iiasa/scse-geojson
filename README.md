@@ -8,7 +8,7 @@ at the IIASA Energy, Climate and Environment program.
 
 ## Country map
 
-The initial countries geojson [world_natural-earth](world_natural-earth.geojson) is sourced
+The initial countries geojson [world_natural-earth](common/world_natural-earth.geojson) is sourced
 from the [Natural Earth's official repository, version 5.1.1](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/).
 
 This dataset is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/).  Made with Natural Earth.

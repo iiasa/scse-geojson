@@ -1,4 +1,5 @@
-# scenario-services-geojson (scse-geojson)
+# Geojson source repository for apps hosted by IIASA
+
 Copyright 2025 IIASA Scenario Services team
 
 [![license](https://img.shields.io/badge/License-CC--BY-blue)](https://creativecommons.org/licenses/by/4.0/)
@@ -11,11 +12,13 @@ at the IIASA Energy, Climate and Environment program.
 The initial countries geojson [world_natural-earth](common/world_natural-earth.geojson) is sourced
 from the [Natural Earth's official repository, version 5.1.1](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/).
 
-This dataset is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/).  Made with Natural Earth.
+This dataset is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/). Made with Natural Earth.
 
 ## IAMC common regions (R5, R9, R10)
+The geojson files for the common regions are based on the on the definitions developed
+by the **Integrated Assessment Modeling Consortium** and available via the 
+[common-definitions](https://github.com/IAMconsortium/common-definitions/blob/main/definitions/region/common.yaml) repository.
 
-The geojson files for IAMC common regions are generated according to the [IAMC Common Definitions](https://github.com/IAMconsortium/common-definitions/blob/main/definitions/region/common.yaml).
 - R5 regions
 
   OECD & EU (R5), Reforming Economies (R5), Asia (R5), Middle East & Africa (R5), Latin America (R5)
